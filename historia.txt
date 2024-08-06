@@ -1,3 +1,2 @@
-Hola! mi nombre es juan carlos garcía bautista..
-Hablaremos de mis vacasiones en TDH.
-las fechas de la estancia en aquellos lugares fueron en abril del 2024.
+Hola! mi nombre es "JUAN CARLOS GARCIA BAUTISTA"
+"este es realmente mi primer commit pero hare cambios en el nombre de minusculas a mayusculas"
