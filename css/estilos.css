@@ -1,7 +1,5 @@
-
-
 *{
-    font-family:Georgia;
+    font-family:"Radio Canada Big";
 }
 body{
     color:#333;
@@ -33,7 +31,6 @@ body{
     border:1px solid #ddd;
     margin:0 auto}
 #container h1{
-<<<<<<< HEAD
     font-size: 20px;
 }
 
@@ -50,8 +47,5 @@ body{
     color: darkgreen;
 
 }
-=======
-    font-size:20px
-}
 
->>>>>>> cabecera
+
