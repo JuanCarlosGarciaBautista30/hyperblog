@@ -18,3 +18,17 @@ body{
 #container h1{
     font-size: 20px;
 }
+
+.historia{
+    background: yellow;
+    align-content: center;
+    border-radius: 1rem;
+    padding: 1rem;
+    box-shadow: 5px 7px 10px orange;
+}
+
+.p-especial{
+    font-size: 20px;
+    color: darkgreen;
+
+}
