@@ -1,2 +1,5 @@
 Hola! mi nombre es "JUAN CARLOS GARCIA BAUTISTA"
 "este es realmente mi primer commit pero hare cambios en el nombre de minusculas a mayusculas"
+
+Hola mi nombre es usuario secreto
+tengo 30 años y soy muy apasionado a la tecnología..
