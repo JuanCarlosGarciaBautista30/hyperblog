@@ -10,12 +10,16 @@ body{
 }
 
 #cabecera{
+    gap: 1;
     background: cadetblue;
     box-shadow: 0px 2px 20px 0px rgba(red, green, blue, alpha);
     color: antiquewhite;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+}
+.corp{
+    width: 20px;
 }
 
 #cabecera #tagline{
