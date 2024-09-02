@@ -47,5 +47,10 @@ body{
     color: darkgreen;
 
 }
-
+#footer{
+    background: steelblue;
+    color: azure;
+    text-align: center;
+    box-shadow: 5px 7px 10px orange;
+}
 
