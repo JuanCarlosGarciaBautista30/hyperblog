@@ -1,0 +1,5 @@
+#! En este archivo se incluyen archivos para ser ingnorados por el controlador de versiones.
+#! archivos sensibles como contraceñas etc.
+#! * descripción...=== significa todos los archivos con la descripción seran ignorados.
+#* el asterisco y lo que se quiere ignorar ba pegado.
+*.jpg
